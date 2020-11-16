@@ -1,2 +1,2 @@
 # FastAnnotator
- A Fast Image Annotator Tool
+ Automation tools for LabelIMG Image Annotation Tool
